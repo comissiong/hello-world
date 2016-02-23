@@ -3,4 +3,4 @@ My first repository
 
 First edit to first repository
 
-Second edit
+Second edit to first rep.
